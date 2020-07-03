@@ -1,0 +1,10 @@
+{
+  "name": "uniapp-pc-adaptor",
+  "version": "1.0.0-SANPSHOT.2",
+  "description": "Uniapp adapts to PC screen",
+  "author": "iPotato <monkeydpotato@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
