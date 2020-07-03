@@ -1,6 +1,6 @@
 {
   "name": "uniapp-pc-adaptor",
-  "version": " 1.0.0",
+  "version": " 1.0.1",
   "description": "Uniapp adapts to PC screen",
   "main": "src/js/index.js",
   "author": "iPotato <monkeydpotato@gmail.com>",
